@@ -11,3 +11,5 @@ Command : sudo useradd -m -s /sbin/nologin javed
 
 Step3:Try ssh app server 2 with user javed 
 Message : This account is currently not available.
+
+Create a user anita in app server 3 which have acess to only /var/www/anita .
